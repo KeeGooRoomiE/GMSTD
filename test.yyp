@@ -95,11 +95,27 @@
             }
         },
         {
+            "Key": "405488d4-7fb9-4e02-ae2c-6bd6197ad204",
+            "Value": {
+                "id": "ec189725-313f-4331-b7d1-96a52a38f9b2",
+                "resourcePath": "rooms\\room_debug\\room_debug.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "423775b6-2503-450d-9acc-e55e3053b84c",
             "Value": {
                 "id": "71987e89-bb9c-4d59-a89b-34619bf8d06c",
                 "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "45b84663-7d87-4237-a50a-fd030a68960d",
+            "Value": {
+                "id": "bef48b01-2b07-44ca-87e1-91b063f246dc",
+                "resourcePath": "sprites\\spr_debug_bkg\\spr_debug_bkg.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
