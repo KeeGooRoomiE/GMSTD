@@ -1,1 +1,3 @@
-array[1] = 0
+global.array[1] = 0
+
+global.count=0
