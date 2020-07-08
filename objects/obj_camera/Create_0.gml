@@ -1,8 +1,5 @@
-globalvar out_x, out_y
+
+out_x = view_set_xport(0,102)
 
 
-
-
-
-alarm_set(0,5) 
 
