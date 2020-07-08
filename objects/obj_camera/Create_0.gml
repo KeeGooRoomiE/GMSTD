@@ -1,8 +1,4 @@
-view_camera[0] = 1024
-
-view_xport[0] = 1024
-view_yport[0] = 768
-
-view_set_xport(0,1024)
-view_set_yport(0,768)
+dis_h = display_get_height(); // получить значение высоты экрана
+dis_w = display_get_width(); // получить значение ширины экрана
+window_set_size(dis_w, dis_h); // установить полученные значения как разрешение окна
 
