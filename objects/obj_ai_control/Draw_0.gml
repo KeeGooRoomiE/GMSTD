@@ -1,0 +1,1 @@
+draw_text_color(mouse_x,mouse_y,string(global.pp_counter),c_black,c_black,c_black,c_black,1)

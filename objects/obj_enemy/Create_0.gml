@@ -1,11 +1,7 @@
-/// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
-/// @DnDVersion : 1.1
-/// @DnDHash : 2C70A607
-/// @DnDArgument : "direction" "0"
-direction = 0;
+///Init
 
-/// @DnDAction : YoYo Games.Movement.Set_Speed
-/// @DnDVersion : 1
-/// @DnDHash : 77DBB917
-/// @DnDArgument : "speed" "1"
-speed = 1;
+my_counter=0;
+target_x=0;
+target_y=0;
+spd=2;
+speed=spd;
