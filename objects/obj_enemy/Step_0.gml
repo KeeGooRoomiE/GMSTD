@@ -30,3 +30,15 @@ else
 {
 	speed=0;
 }
+
+if(! is_moving) {
+	
+	var x_cell = floor(mouse_x / global.cell_size)
+	var y_cell = floor(mouse_y / global.cell_size)
+	
+	var position_x = (x_cell * global.cell_size)
+	var position_y = (y_cell * global.cell_size)
+	
+	mp_grid_path(global.grid, path, x, y, position_x, position_y, false)
+	
+}
