@@ -8,3 +8,13 @@ speed=spd;
 
 path=path_add()
 is_moving = 0
+
+basehp = 3
+hp = basehp + hpaddmod-hpsubmod
+hpaddmod = 0
+hpsubmod = 0
+
+basespeed = 2
+speed = basespeed + spdaddmod-spdsubmod
+spdaddmod = 0
+spdsubmod = 0
