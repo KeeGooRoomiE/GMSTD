@@ -1,38 +1,38 @@
 {
-    "id": "423775b6-2503-450d-9acc-e55e3053b84c",
+    "id": "666de13e-4f3c-4697-8439-46638db7667e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_bullet_turret_1",
+    "name": "obj_bullet_turret_1_furt",
     "eventList": [
         {
-            "id": "6e27d3b6-39f0-47a0-976b-23ddbfd6dd44",
+            "id": "0731476c-0cc6-42fb-8669-3bd5f88da9de",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "423775b6-2503-450d-9acc-e55e3053b84c"
+            "m_owner": "666de13e-4f3c-4697-8439-46638db7667e"
         },
         {
-            "id": "36c4378a-0889-4f4d-9ff4-201ee8d30393",
+            "id": "1f8b6a34-3d16-4ea2-a869-16b73ae23cc0",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 7,
-            "m_owner": "423775b6-2503-450d-9acc-e55e3053b84c"
+            "m_owner": "666de13e-4f3c-4697-8439-46638db7667e"
         },
         {
-            "id": "308daeab-2d97-4ac0-8621-af33f9ae7ead",
+            "id": "d7a7b0b2-d7f0-4f6d-99ee-180b569b8f5e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "a811164c-2f24-4138-90cf-d2b1a4c41f7d",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "423775b6-2503-450d-9acc-e55e3053b84c"
+            "m_owner": "666de13e-4f3c-4697-8439-46638db7667e"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

@@ -146,7 +146,7 @@
             "Key": "423775b6-2503-450d-9acc-e55e3053b84c",
             "Value": {
                 "id": "71987e89-bb9c-4d59-a89b-34619bf8d06c",
-                "resourcePath": "objects\\obj_bullet_turret_1\\obj_bullet_turret_1.yy",
+                "resourcePath": "objects\\obj_bullet_turret_1_near\\obj_bullet_turret_1_near.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -180,6 +180,14 @@
                 "id": "00a79ffb-2147-4adf-98f0-1a0096046a54",
                 "resourcePath": "views\\6232e5e1-6d9c-44b9-8f22-3133f17a6523.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "666de13e-4f3c-4697-8439-46638db7667e",
+            "Value": {
+                "id": "31205cfa-cd1e-4594-9107-7d4080839d0d",
+                "resourcePath": "objects\\obj_bullet_turret_1_furt\\obj_bullet_turret_1_furt.yy",
+                "resourceType": "GMObject"
             }
         },
         {
